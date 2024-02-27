@@ -1,5 +1,4 @@
 package day2
-
 fun main(){
     println("Enter your age as a whole number:")
     val age = readln().toInt()
