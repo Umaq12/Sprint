@@ -7,5 +7,4 @@ fun main(){
     } else  {
         println("You cannot go into the club, please go home.")
     }
-
 }
