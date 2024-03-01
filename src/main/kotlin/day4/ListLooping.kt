@@ -6,4 +6,5 @@ fun main() {
         numbers[i] = numbers[i] * 2
     }
     println(numbers)
+
 }
